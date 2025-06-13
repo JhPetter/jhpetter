@@ -54,5 +54,7 @@ Software Engineer with 8+ years experience, primarily in Android development. I 
 [![Code Review](https://img.shields.io/badge/Code_Review-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 [![Scrum](https://img.shields.io/badge/Scrum-007ACC?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
 
+[![Petter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhPetter&show_icons=true&theme=radical)](https://github.com/JhPetter/github-readme-stats)
+
 ## Contact me:
 [![Email](https://img.shields.io/badge/petterjunior94@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:petterjunior94@gmail.com)
