@@ -23,7 +23,6 @@ Software Engineer with 8+ years experience, primarily in Android development. I 
 [![API Gateway](https://img.shields.io/badge/API_Gateway-FF9900?style=for-the-badge&logo=amazonapigateway&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()
 [![Meta API](https://img.shields.io/badge/Meta_API-0078FF?style=for-the-badge&logo=meta&logoColor=white&labelColor=101010)]()
 [![DeepSeek LLM](https://img.shields.io/badge/DeepSeek_LLM-000000?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)]()
